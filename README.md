@@ -2,8 +2,6 @@
 
 > Complete streaming solution with Admin Panel, Reseller System & Native Android TV App
 
-![StreamCore Banner](https://media.syruum.com/opening.png)
-
 ---
 
 ## 🚀 What is StreamCore?
